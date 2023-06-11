@@ -3,5 +3,5 @@
 
 - 👨‍💻 All of my projects are available at [https://fyen-personal-website.onrender.com](https://fyen-personal-website.onrender.com)
 
-- 📫 How to reach me **ferrygun45@gmail.com**
+- 📫 Reach me on **ferrygun45@gmail.com**
 
